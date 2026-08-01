@@ -13,4 +13,4 @@ Com este projeto, aprendi a:
 - Criar e gerenciar um repositório diretamente pela interface do GitHub.
 
 ## 🔗 Contato
-Você pode me encontrar no meu perfil do LinkedIn (www.linkedin.com/in/kim-canguçú-a841a8427).
+Você pode me encontrar no meu perfil do LinkedIn (https://www.linkedin.com/feed/).
